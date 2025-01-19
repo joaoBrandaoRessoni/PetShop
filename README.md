@@ -1,4 +1,4 @@
-# Pet_Shop
+# PetShop
 This is a project that my professor from college requested us to make,
 he said we needed to create a system and the code had to have at least all four pillars of object-oriented programming and the architecture MVC, so here's what I handed in.
 
